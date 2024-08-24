@@ -171,7 +171,7 @@ cc_library(
 """,
     sha256 = "53d7ad6124d06fdede8d839c091c649c794dae204666f1be0d30d7931737d635",
     strip_prefix = "armadillo-9.900.1",
-    urls = ["https://sourceforge.net/projects/arma/files/retired/armadillo-9.900.1.tar.xz.RETIRED"],
+    urls = ["https://raw.githubusercontent.com/OoiHS/visqol/cbd3dfdc51e10b5918aa41df4a01e8c6d8305ca9/armadillo-9.900.1.tar.xz"],
 )
 
 # PFFFT
